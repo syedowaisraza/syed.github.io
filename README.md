@@ -17,22 +17,15 @@
 
 ## Projects
 ### Urban Cycling Patterns and Implications for Rental Cycle in London
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Active Users in Google Play App Store
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Created machine learning model for Google Play developers using Python. Analyzed data from 1.5M+ users, provided insights and strategies for developers of all sizes
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Active Users in Google Play App Store
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
 
-![Bike Study](/assets/img/bike_study.jpeg)
