@@ -8,20 +8,11 @@
 
 ## Work Experience
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
-- In-depth analysis of marketing campaign performance, optimizing strategies and resource allocation based on metrics like website traffic, click-through rates, and conversion rates using Power BI
-- Utilized geospatial analysis to analyse past sales data, delivering regional trends and consumer behaviour patterns for targeted marketing and sales strategies.
-- Achieved 10% increase in production by automating SQL based database with Power BI report for real-time data extraction, providing stakeholders with accurate, timely information for better decision-making
-- Proactively resolved 500+ daily data discrepancies, developing dynamic pipelines (for ETL) using SQL for optimal data pull/insights and identifying future strategies with cross-functional collaboration
-- Conducted product performance analysis using complex sales data for decision making on development, pricing and promotions to optimize business strategies
-- Integrated SQL from diverse sources dataset consolidating in centralized data warehouse for ad-hoc power BI dashboard for comprehensive analysis
-- Developed SQL database using SAP data to accurately forecast monthly consumption of consumable items with 95% accuracy
-- Analyze and present insights using Power BI on improving revenue and forecasting to the stakeholders. Optimization and enhancement of KPI tracking with visuals and conducted daily follow-up in meeting
+- Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
+- Collaborating with business units for development and implementation of solutions using Power BI.
 
 **Engineer @ Thal Limited (April 2018 - December 2020_)**
 - Executed process enhancements and efficiency optimizations, focusing on continuous improvement, cost reduction, and system integration using Power BI and SAP
-- Analysed cycle time, machine performance and material usage to enhance productivity and quality to identify inefficiencies, bottlenecks and areas for improvement
-- Implemented continuous process improvement approach, to maximize team performance, resulting in a 10% productivity increase and 20% reduction in errors
-- Applied SAP in production, used data analysis to streamline operations, resulting in 30% faster order processing and 95% inventory accuracy improvement
 - Improved KPI tracking with real-time visuals for operational departments and conducted daily presentations in morning meeting to ensure alignment with business objectives
 
 ## Projects
