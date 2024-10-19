@@ -11,7 +11,7 @@
 - Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
 - Collaborating with business units for development and implementation of solutions using Power BI.
 
-**Engineer @ Thal Limited (April 2018 - December 2020_)**
+**Engineer @ Thal Limited (_April 2018 - December 2020_)**
 - Executed process enhancements and efficiency optimizations, focusing on continuous improvement, cost reduction, and system integration using Power BI and SAP
 - Improved KPI tracking with real-time visuals for operational departments and conducted daily presentations in morning meeting to ensure alignment with business objectives
 
