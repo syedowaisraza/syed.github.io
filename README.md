@@ -8,8 +8,7 @@
 
 ## Work Experience
 **Data Analyst @ Codelyft (_September 2023 - Octuber 2024_)**
-- Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
-- Collaborating with business units for development and implementation of solutions using Power BI.
+- Optimized and maintained SQL databases, integrated ERP systems for automated reporting, developed models for optimization, performed time series analysis using Python and Power BI and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
 
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
 - Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
