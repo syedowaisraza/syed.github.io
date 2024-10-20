@@ -7,6 +7,10 @@
 - B.S., Mechanical Engineering | NED University (_Dec 2017_)
 
 ## Work Experience
+**Data Analyst @ Codelyft (_September 2023 - Octuber 2024_)**
+- Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
+- Collaborating with business units for development and implementation of solutions using Power BI.
+
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
 - Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
 - Collaborating with business units for development and implementation of solutions using Power BI.
@@ -21,13 +25,14 @@
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
-### Active Users in Google Play App Store
+### Takeaway Business Analysis
 [Restraunt Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
 
-Created machine learning model for Google Play developers using Python. Analyzed data from 1.5M+ users, provided insights and strategies for developers of all sizes
+Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove.
 
 
 ### Active Users in Google Play App Store
+[Play Store Analysis](https://1drv.ms/b/c/37d9069e0091083a/ESgSU-U-_DVPgqz0x1aJrgkBw4Gz4g3roVjJNM-mqTitTw?e=vOSd3c)
 
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
 
