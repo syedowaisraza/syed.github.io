@@ -32,7 +32,7 @@ Created dashboard for a takeaway business sales, orders, discounts and average o
 
 
 ### Active Users in Google Play App Store
-[Play Store Analysis](https://1drv.ms/b/c/37d9069e0091083a/ESgSU-U-_DVPgqz0x1aJrgkBw4Gz4g3roVjJNM-mqTitTw?e=vOSd3c)
+[Play Store Analysis](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
 
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
 
