@@ -17,11 +17,13 @@
 
 ## Projects
 ### Urban Cycling Patterns and Implications for Rental Cycle in London
+[Rental Cycle Analysis]https://1drv.ms/f/c/37d9069e0091083a/Eq7LMgJmb_9MvMBXjt9o5gkBXZjf4YhV0rLYghSN_e0kjA?e=qSpaZY
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
 ### Active Users in Google Play App Store
 [Restraunt Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
+
 Created machine learning model for Google Play developers using Python. Analyzed data from 1.5M+ users, provided insights and strategies for developers of all sizes
 
 
