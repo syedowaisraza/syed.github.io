@@ -36,7 +36,7 @@ Created dashboard for a takeaway business sales, orders, discounts and average o
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
 
 ### Analysis on Intent to Purchase IoT Home Security Devices
-[Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBRfglG0NvObEBZHJ0XP7wAQ?e=QqszGV)
+[Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 Indentified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
 
