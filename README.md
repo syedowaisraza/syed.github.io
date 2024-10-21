@@ -20,7 +20,7 @@
 
 ## Projects
 ### Urban Cycling Patterns and Implications for Rental Cycle in London
-[Rental Cycle Analysis](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=jikzh8)
+[Rental Cycle Analysis](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
