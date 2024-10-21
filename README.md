@@ -20,7 +20,7 @@
 
 ## Projects
 ### Urban Cycling Patterns and Implications for Rental Cycle in London
-[Rental Cycle Analysis]([https://1drv.ms/f/c/37d9069e0091083a/Eq7LMgJmb_9MvMBXjt9o5gkBXZjf4YhV0rLYghSN_e0kjA?e=qSpaZY](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cB8DwTvL739_IlVbTEsvkWNQ?e=DGFrE9))
+[Rental Cycle Analysis](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=jikzh8)
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
@@ -36,7 +36,7 @@ Created dashboard for a takeaway business sales, orders, discounts and average o
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
 
 ### Analysis on Intent to Purchase IoT Home Security Devices
-[Intent to Purchase IoT Home Security Devices]([https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBRfglG0NvObEBZHJ0XP7wAQ?e=C2toOj))
+[Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBRfglG0NvObEBZHJ0XP7wAQ?e=QqszGV)
 
 Indentified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
 
