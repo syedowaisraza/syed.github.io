@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL,Power BI, DAX, STATA, Snowflake, SPSS, Google Analytics
 
 ## Education							       		
-- M.S. Business Analytics	| University of Surrey, UK (_September 2023_)	 			        		
-- B.S. Mechanical Engineering | NED University, Pakistan (_December 2017_)
+- M.S. Business Analytics	| University of Surrey, UK (_Sept 2023_)	 			        		
+- B.S. Mechanical Engineering | NED University, Pakistan (_Dec 2017_)
 
 ## Work Experience
 **Data Analyst @ Codelyft (_September 2023 - Octuber 2024_)**
