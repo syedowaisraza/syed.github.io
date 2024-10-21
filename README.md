@@ -7,7 +7,7 @@
 - B.S. Mechanical Engineering | NED University, Pakistan (_Dec 2017_)
 
 ## Work Experience
-**Data Analyst @ Codelyft (_September 2023 - Octuber 2024_)**
+**Data Analyst @ Codelyft (_September 2023 - October 2024_)**
 - Optimized and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
 
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
@@ -25,7 +25,7 @@
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
 ### Takeaway Business Analysis
-[Restraunt Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
+[Restaurant Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
@@ -38,4 +38,4 @@ Analyzed Google Merchandise Store's data by identifying customer patterns. Prese
 ### Analysis on Intent to Purchase IoT Home Security Devices
 [Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
-Indentified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
+Identified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
