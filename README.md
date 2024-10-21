@@ -27,11 +27,16 @@ Built an advanced machine learning model using time series analysis predicting c
 ### Takeaway Business Analysis
 [Restraunt Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
 
-Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove.
+Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
 
 ### Active Users in Google Play App Store
 [Play Store Analysis](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
 
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
+
+### Analysis on Intent to Purchase IoT Home Security Devices
+[Intent to Purchase IoT Home Security Devices]([https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBRfglG0NvObEBZHJ0XP7wAQ?e=C2toOj))
+
+Indentified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
 
