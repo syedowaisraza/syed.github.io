@@ -29,10 +29,10 @@ Built an advanced machine learning model using time series analysis predicting c
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
-### Comprehensive Sales and Revenue Analysis for a Major Client
+### Sales and Revenue Analysis
 [Sales and Revenue Analysis](https://1drv.ms/u/c/37d9069e0091083a/ESE4-1Ty92JNlN3Dg44l3UQBatNTuQ4aTa-0WJiCQetX9Q?e=ugMOVA)
 
-Sales and Revenue Analysis for a major client, meticulously segmented by product, location, sector and sales agent to provide deeper insights into performance and growth opportunities.
+Sales and Revenue Analysis for a major client from an open source data,segmented by product, location, sector and sales agent to provide deeper insights into performance and growth opportunities.
 
 
 ### Active Users in Google Play App Store
