@@ -3,12 +3,12 @@
 #### Technical Skills: Python, SQL,Power BI, DAX, STATA, Snowflake, SPSS, Google Analytics
 
 ## Education							       		
-- M.S., Business Analytics	| University of Surrey (_September 2023_)	 			        		
-- B.S., Mechanical Engineering | NED University (_Dec 2017_)
+- M.S., Business Analytics	| University of Surrey, UK (_September 2023_)	 			        		
+- B.S., Mechanical Engineering | NED University, Pakistan (_December 2017_)
 
 ## Work Experience
 **Data Analyst @ Codelyft (_September 2023 - Octuber 2024_)**
-- Optimized and maintained SQL databases, integrated ERP systems for automated reporting, developed models for optimization, performed time series analysis using Python and Power BI and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
+- Optimized and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
 
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
 - Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
@@ -39,4 +39,3 @@ Analyzed Google Merchandise Store's data by identifying customer patterns. Prese
 [Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 Indentified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
-
