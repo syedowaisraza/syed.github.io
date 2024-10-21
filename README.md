@@ -8,14 +8,14 @@
 
 ## Work Experience
 **Data Analyst @ Codelyft (_September 2023 - October 2024_)**
-- Optimized and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
+- Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
 
 **Data Analyst @ Arcelik (_December 2020 - September 2022_)**
 - Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
 - Collaborating with business units for development and implementation of solutions using Power BI.
 
 **Engineer @ Thal Limited (_April 2018 - December 2020_)**
-- Executed process enhancements and efficiency optimizations, focusing on continuous improvement, cost reduction, and system integration using Power BI and SAP
+- Executed process enhancements and efficiency optimisations, focusing on continuous improvement, cost reduction, and system integration using Power BI and SAP
 - Improved KPI tracking with real-time visuals for operational departments and conducted daily presentations in morning meeting to ensure alignment with business objectives
 
 ## Projects
@@ -28,6 +28,11 @@ Built an advanced machine learning model using time series analysis predicting c
 [Restaurant Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
+
+### Comprehensive Sales and Revenue Analysis for a Major Client
+[Sales and Revenue Analysis](https://1drv.ms/u/c/37d9069e0091083a/ESE4-1Ty92JNlN3Dg44l3UQBatNTuQ4aTa-0WJiCQetX9Q?e=ugMOVA)
+
+Sales and Revenue Analysis for a major client, meticulously segmented by product, location, sector and sales agent to provide deeper insights into performance and growth opportunities.
 
 
 ### Active Users in Google Play App Store
