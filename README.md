@@ -25,7 +25,7 @@
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 
 ### Takeaway Business Analysis
-[Restaurant Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBbUJWZ9Sr5rgbj12CGTVZMQ?e=DwcfAF)
+[Restaurant Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
