@@ -8,11 +8,11 @@
 
 ## Work Experience
 **Customer Service Analyst @ Tesco,UK (_March 2024 - Present_)**
-- Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
+- Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency
 
 **Data Analyst @ Arcelik,PK (_December 2020 - September 2022_)**
-- Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes.
-- Collaborating with business units for development and implementation of solutions using Power BI.
+- Implementation of analytical reports using SQL, Power BI, and Python for different business units, resulting in a 70% increase in reporting efficiency and automation of manual processes
+- Collaborating with business units for development and implementation of solutions using Power BI
 
 **Engineer @ Thal Limited,PK (_April 2018 - December 2020_)**
 - Executed process enhancements and efficiency optimisations, focusing on continuous improvement, cost reduction, and system integration using Power BI and SAP
