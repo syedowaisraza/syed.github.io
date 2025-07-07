@@ -3,11 +3,11 @@
 #### Technical Skills: Python, SQL,Power BI, DAX, STATA, Snowflake, SPSS, Google Analytics
 
 ## Education							       		
-- M.S. Business Analytics	| University of Surrey, UK (_Sept 2023_)	 			        		
-- B.S. Mechanical Engineering | NED University, Pakistan (_Dec 2017_)
+- M.S. Business Analytics	| University of Surrey,UK (_Sept 2023_)	 			        		
+- B.S. Mechanical Engineering | NED University,Pakistan (_Dec 2017_)
 
 ## Work Experience
-**Customer Service Analyst @ Tesco, UK (_January 2024 - January 2025_)**
+**Customer Service Analyst @ Tesco,UK (_January 2024 - January 2025_)**
 - Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency.
 
 **Data Analyst @ Arcelik,PK (_December 2020 - September 2022_)**
