@@ -33,7 +33,7 @@ Built an advanced machine learning model using time series analysis predicting c
 ### Optimising Pull Request Review Efficiency
 
 An analytics solution was built using SDLC data to identify pull request delays and reviewer bottlenecks. Used Python for data processing and Power BI for visualisation. Analysed reviewer workload to assess impact on delivery speed. Delivered insights to improve code review efficiency and team productivity.
-[<img width="852" height="478" alt="Screenshot 2026-03-28 at 12 54 32 pm" src="https://github.com/user-attachments/assets/ccce2ae4-f87d-48fe-94a1-58d96f58c63c" />](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
+[![Pull Request Review 256px jpg](https://github.com/user-attachments/assets/3a5f6bd7-b4e6-4952-b5c4-4d19d75725b3)](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
 
 [Pull Request Optimisation.pptx](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
 
