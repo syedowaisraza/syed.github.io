@@ -67,7 +67,6 @@ Analyzed Google Merchandise Store's data by identifying customer patterns. Prese
 ### Analysis on Intent to Purchase IoT Home Security Devices
 
 Identified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
-
-(https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
+[<img width="602" alt="Screenshot 2026-03-28 at 3 47 38 pm" src="https://github.com/user-attachments/assets/4067cb3d-6d9d-432f-b3ee-6c6538706336" />](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 [Intent to Purchase IoT Home Security Devices.pdf](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
