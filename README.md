@@ -42,7 +42,7 @@ An analytics solution was built using SDLC data to identify pull request delays 
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
-[![resized_256x256](https://github.com/user-attachments/assets/b9a5eee2-fcc7-463e-9cbb-691f8d78f160)](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
+[![WhatsApp Image 2026-03-28 at 14 15 33](https://github.com/user-attachments/assets/d55c5892-aa95-4920-b00e-7c60311841e4)](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
 
 [Online Takeaway Analysis.pibx](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
 
