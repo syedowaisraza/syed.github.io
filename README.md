@@ -33,7 +33,7 @@ Built an advanced machine learning model using time series analysis predicting c
 ### Optimising Pull Request Review Efficiency
 
 An analytics solution was built using SDLC data to identify pull request delays and reviewer bottlenecks. Used Python for data processing and Power BI for visualisation. Analysed reviewer workload to assess impact on delivery speed. Delivered insights to improve code review efficiency and team productivity.
-[![Pull Request Review 256x256 jpg](https://github.com/user-attachments/assets/46aa38f9-7cc5-45de-b83e-d323af0dbc90)](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
+[<img width="852" alt="Screenshot 2026-03-28 at 12 54 32 pm" src="https://github.com/user-attachments/assets/4f50230a-3480-4d34-97b8-340c8134b801" />](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
 
 [Pull Request Optimisation.pptx](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
 
@@ -67,6 +67,7 @@ Analyzed Google Merchandise Store's data by identifying customer patterns. Prese
 ### Analysis on Intent to Purchase IoT Home Security Devices
 
 Identified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
-[<img width="488" alt="Screenshot 2026-03-28 at 1 22 29 pm" src="https://github.com/user-attachments/assets/833458e4-cc9c-4458-972e-d5562d8fbde3" />](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
+
+(https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 [Intent to Purchase IoT Home Security Devices.pdf](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
