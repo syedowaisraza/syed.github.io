@@ -59,7 +59,7 @@ Sales and Revenue Analysis for a major client from an open source data,segmented
 
 Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics.
 
-[<img width="554" height="713" alt="Screenshot 2026-03-28 at 1 32 27 pm" src="https://github.com/user-attachments/assets/e8fa635d-7ab6-48e9-af5b-38e1829ccc29" />](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
+[<img width="554" alt="Screenshot 2026-03-28 at 1 32 27 pm" src="https://github.com/user-attachments/assets/e8fa635d-7ab6-48e9-af5b-38e1829ccc29" />](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
 
 [Google Play App Store.pdf](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
 
@@ -67,6 +67,6 @@ Analyzed Google Merchandise Store's data by identifying customer patterns. Prese
 ### Analysis on Intent to Purchase IoT Home Security Devices
 
 Identified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
-[<img width="488" height="705" alt="Screenshot 2026-03-28 at 1 22 29 pm" src="https://github.com/user-attachments/assets/833458e4-cc9c-4458-972e-d5562d8fbde3" />](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
+[<img width="488" alt="Screenshot 2026-03-28 at 1 22 29 pm" src="https://github.com/user-attachments/assets/833458e4-cc9c-4458-972e-d5562d8fbde3" />](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 [Intent to Purchase IoT Home Security Devices.pdf](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
