@@ -1,13 +1,16 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL,Power BI, DAX, STATA, Snowflake, SPSS, Google Analytics
+#### Technical Skills:Microsoft Fabric, Python, SQL,Power BI, DAX, DBT, Azure
 
 ## Education							       		
 - M.S. Business Analytics	| University of Surrey,UK (_Sept 2023_)	 			        		
 - B.S. Mechanical Engineering | NED University,Pakistan (_Dec 2017_)
 
 ## Work Experience
-**Customer Service Analyst @ Tesco,UK (_March 2024 - Present_)**
+**Data Analyst @ Squaretrade Europe,PK (_Jan 2026 - Present_)**
+- Utilused SQL for data extraction and transformation, building dashboards in Power BI/Tableau, analysing data to generate actionable insights, and collaborating with stakeholders while managing multiple projects in a fast-paced environment
+
+**Data Analyst @ Tesco,UK (_March 2024 - Dec 2025_)**
 - Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency
 
 **Data Analyst @ Arcelik,PK (_December 2020 - September 2022_)**
@@ -20,27 +23,50 @@
 
 ## Projects
 ### Urban Cycling Patterns and Implications for Rental Cycle in London
-[Rental Cycle Analysis](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
 
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
+[<img width="855" height="479" alt="Screenshot 2026-03-28 at 12 58 25 pm" src="https://github.com/user-attachments/assets/8d9e7b7c-a55e-4a0d-8859-044227e11026" />](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
 
-### Takeaway Business Analysis
-[Restaurant Delivery](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
+[Rental Cycle Analysis.pptx](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
+
+
+### Optimising Pull Request Review Efficiency
+
+An analytics solution was built using SDLC data to identify pull request delays and reviewer bottlenecks. Used Python for data processing and Power BI for visualisation. Analysed reviewer workload to assess impact on delivery speed. Delivered insights to improve code review efficiency and team productivity.
+[<img width="852" height="478" alt="Screenshot 2026-03-28 at 12 54 32 pm" src="https://github.com/user-attachments/assets/ccce2ae4-f87d-48fe-94a1-58d96f58c63c" />](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
+
+[Pull Request Optimisation.pptx](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
+
+
+### Online Takeaway Analysis
 
 Created dashboard for a takeaway business sales, orders, discounts and average order values, with weekly trends and site performance comparisons. Identified top-selling and underperforming products to decide which to keep or remove by using power BI.
 
+[![WhatsApp Image 2026-03-28 at 14 15 33](https://github.com/user-attachments/assets/6daed23f-fc3e-4fae-afb1-6092d1ee364d)](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
+
+[Online Takeaway Analysis.pibx](https://1drv.ms/u/c/37d9069e0091083a/EcAbhLoml6NJtmEdtO2dTaUBF03IjPNQIff0rsWPYa8wdw?e=rG2hq1)
+
+
 ### Sales and Revenue Analysis
-[Sales and Revenue Analysis](https://1drv.ms/u/c/37d9069e0091083a/ESE4-1Ty92JNlN3Dg44l3UQBatNTuQ4aTa-0WJiCQetX9Q?e=ugMOVA)
 
 Sales and Revenue Analysis for a major client from an open source data,segmented by product, location, sector and sales agent to provide deeper insights into performance and growth opportunities.
+[![WhatsApp Image 2026-03-28 at 14 15 33 (1)](https://github.com/user-attachments/assets/84c39029-89c0-4d92-9b5d-ee9e64be3f9d)](https://1drv.ms/u/c/37d9069e0091083a/ESE4-1Ty92JNlN3Dg44l3UQBatNTuQ4aTa-0WJiCQetX9Q?e=ugMOVA)
+
+[Sales & Revenue Analysis.pibx](https://1drv.ms/u/c/37d9069e0091083a/ESE4-1Ty92JNlN3Dg44l3UQBatNTuQ4aTa-0WJiCQetX9Q?e=ugMOVA)
 
 
 ### Active Users in Google Play App Store
-[Play Store Analysis](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
 
-Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics
+Analyzed Google Merchandise Store's data by identifying customer patterns. Presented insights using visualizations and dashboards in Google Analytics.
+
+[<img width="554" height="713" alt="Screenshot 2026-03-28 at 1 32 27 pm" src="https://github.com/user-attachments/assets/e8fa635d-7ab6-48e9-af5b-38e1829ccc29" />](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
+
+[Google Play App Store.pdf](https://1drv.ms/b/c/37d9069e0091083a/EfN5dCUSP9lOtuB7saf0nG0BF9GqQd4wGXXsv8hogZV4tA?e=yXvjxI)
+
 
 ### Analysis on Intent to Purchase IoT Home Security Devices
-[Intent to Purchase IoT Home Security Devices](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
 
 Identified determinants that influence an individual's intent to adopt IoT home security devices by using open source dataset.
+[<img width="488" height="705" alt="Screenshot 2026-03-28 at 1 22 29 pm" src="https://github.com/user-attachments/assets/833458e4-cc9c-4458-972e-d5562d8fbde3" />](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
+
+[Intent to Purchase IoT Home Security Devices.pdf](https://1drv.ms/b/c/37d9069e0091083a/ERI0pPa3_wNBg4Jbn3SQ0tcBjiiwMeZngQOuE0A_rP8xVQ?e=wMoyw9)
