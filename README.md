@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Data Analyst @ Squaretrade Europe,PK (_Jan 2026 - Present_)**
-- Utilused SQL for data extraction and transformation, building dashboards in Power BI/Tableau, analysing data to generate actionable insights, and collaborating with stakeholders while managing multiple projects in a fast-paced environment
+- Used SQL for data extraction and transformation, building dashboards in Power BI/Tableau, analysing data to generate actionable insights, and collaborating with stakeholders while managing multiple projects in a fast-paced environment
 
 **Data Analyst @ Tesco,UK (_March 2024 - Dec 2025_)**
 - Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency
@@ -27,7 +27,7 @@
 Built an advanced machine learning model using time series analysis predicting cycling patterns, customer profile and operational challenges with TFL Cycling dataset using Python and Power BI
 [<img width="855" alt="Screenshot 2026-03-28 at 12 58 25 pm" src="https://github.com/user-attachments/assets/8d9e7b7c-a55e-4a0d-8859-044227e11026" />](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
 
-[Rental Cycle Analysis.pptx](https://1drv.ms/p/c/37d9069e0091083a/EWFmCPI578BKjPWYIGbia_cBo38IIrsurLfXnjLV2EHYLA?e=poutaL)
+[Rental Cycle Analysis.pdf](https://1drv.ms/b/c/37d9069e0091083a/IQAAuF1uVAZjRp0pTZ6Nz4MiATALa3kSpqOcG-maqWbvb3s?e=RKZfKO)
 
 
 ### Optimising Pull Request Review Efficiency
@@ -35,7 +35,7 @@ Built an advanced machine learning model using time series analysis predicting c
 An analytics solution was built using SDLC data to identify pull request delays and reviewer bottlenecks. Used Python for data processing and Power BI for visualisation. Analysed reviewer workload to assess impact on delivery speed. Delivered insights to improve code review efficiency and team productivity.
 [<img width="852" alt="Screenshot 2026-03-28 at 12 54 32 pm" src="https://github.com/user-attachments/assets/4f50230a-3480-4d34-97b8-340c8134b801" />](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
 
-[Pull Request Optimisation.pptx](https://1drv.ms/p/c/37d9069e0091083a/IQDcYpsWNkspQrl05TfSdiTcAaIb5oxHVKlwlKsqFOWpXcg?e=pft0uB)
+[Pull Request Optimisation.pdf](https://1drv.ms/b/c/37d9069e0091083a/IQAjvtews1DQSKrr_M_kbtxAAdmjPDxZA2YNhLfEFMujckk?e=0gaUtY)
 
 
 ### Online Takeaway Analysis
