@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills:Microsoft Fabric, Python, SQL,Power BI, DAX, DBT, Azure
+#### Technical Skills:Microsoft Fabric, Python, SQL,Power BI, DAX, DBT, Azure, Power Automate, Data Scrapping
 
 ## Education							       		
 - M.S. Business Analytics	| University of Surrey,UK (_Sept 2023_)	 			        		
@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Data Analyst @ Squaretrade Europe,PK (_Jan 2026 - Present_)**
-- Used SQL for data extraction and transformation, building dashboards in Power BI/Tableau, analysing data to generate actionable insights, and collaborating with stakeholders while managing multiple projects in a fast-paced environment
+- Used SQL for data extraction and transformation, building dashboards in Power BI/Tableau, analysing data to generate actionable insights and collaborating with operations while managing multiple projects in a fast-paced environment
 
 **Data Analyst @ Tesco,UK (_March 2024 - Dec 2025_)**
 - Optimised and maintained SQL databases, integrated ERP systems for automated reporting and conducted geospatial analysis with QGIS to enhance reporting accuracy and operational efficiency
