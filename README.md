@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills:Microsoft Fabric, Python, SQL,Power BI, DAX, DBT, Azure, Power Automate, Data Scrapping
+#### Technical Skills:Microsoft Fabric, Python, SQL,Power BI, DAX, DBT, Azure, Power Automate, Data Scraping
 
 ## Education							       		
 - M.S. Business Analytics	| University of Surrey,UK (_Sept 2023_)	 			        		
